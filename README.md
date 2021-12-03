@@ -1,4 +1,3 @@
-# Petstore_Mikhnevich
 API test for petstore.swagger.io
 Установка Newman
 
